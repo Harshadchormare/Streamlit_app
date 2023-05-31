@@ -1,3 +1,4 @@
+pip install flask
 import numpy as np
 from flask import Flask, request, render_template
 from flask import Flask, jsonify
